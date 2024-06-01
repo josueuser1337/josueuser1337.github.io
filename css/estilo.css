@@ -3,6 +3,18 @@
 	color: white;
 }
 
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+/*códigos copiados das soluções de outros alunos
+para problemas que o professor está perdido e não consegue resolver*/
+
 @media screen and (max-width: 767px) {
     .ml-4 {
         margin: 0 !important;
@@ -36,3 +48,4 @@ font-weight: 400;
 line-height: 1.2;    
 
 letter-spacing: 1px; }
+
